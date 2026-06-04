@@ -47,7 +47,7 @@ class Quiz_Activity : AppCompatActivity() {
             if (selectedOptions == correctAns) {
                 score++
             }
-            
+
             selectedOptions = ""
             currentIndex++
 
@@ -73,7 +73,7 @@ class Quiz_Activity : AppCompatActivity() {
                     val dataFetched = document.toObject(Quiz::class.java)
                     quiz.add(dataFetched)
                 }
-                
+
                 if (quiz.isNotEmpty()) {
                     currentIndex = 0 // Start from the first question
                     showQuestionOptions()
