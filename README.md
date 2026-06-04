@@ -39,7 +39,7 @@ Nothing fancy, just trying to make things work properly 😄
   <img src="Screenshots/Teacher_dashboard.png" width="300">
 </p>
 <p align="center">
-  <img src="Screenshots/Studen_quiz" width="300">
+  <img src="Screenshots/Studen_quiz.png" width="300">
 </p>
 
 ---
