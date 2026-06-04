@@ -28,9 +28,18 @@ Nothing fancy, just trying to make things work properly 😄
 
 ## Screenshots
 
-Welcome Screen
 <p align="center">
-  <img src="app/Screenshots/1st.png" width="300">
+  <img src="Screenshots/1st.png" width="300">
+</p>
+<p align="center">
+  <img src="Screenshots/login.png" width="300">
+  <img src="Screenshots/register.png" width="300">
+</p>
+<p align="center">
+  <img src="Screenshots/Teacher_dashboard.png" width="300">
+</p>
+<p align="center">
+  <img src="Screenshots/Studen_quiz" width="300">
 </p>
 
 ---
