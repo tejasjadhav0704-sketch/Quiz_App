@@ -30,7 +30,7 @@ Nothing fancy, just trying to make things work properly 😄
 
 Welcome Screen
 <p align="center">
-  <img src="app/Screenshots/Screenshot1.png" width="300">
+  <img src="app/Screenshots/1st.png" width="300">
 </p>
 
 ---
