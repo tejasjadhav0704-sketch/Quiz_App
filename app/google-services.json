@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59646325694",
+    "project_id": "listview-with-adapter",
+    "storage_bucket": "listview-with-adapter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59646325694:android:e846813df21981dc853fef",
+        "android_client_info": {
+          "package_name": "com.example.listview_with_adapter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwicG3dBas7tYk5x7KoJ0QSWf2OzMFhM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
